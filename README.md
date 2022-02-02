@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @rohanbagde001
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi there
+
+-I’m Rohan Bagde
+- 👀 I’m interested in learning new technology
+- 🌱 I’m currently learning Data Science
+- 💞️ I’m looking to collaborate on open source project
+- 📫 How to reach me:
 
 <!---
 rohanbagde001/rohanbagde001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
