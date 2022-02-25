@@ -10,7 +10,7 @@ Hi there
 
 [![TRohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohanbagde001)](https://github.com/rohanbagde001)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rohanbagde001&theme=dark)](https://github.com/rohanbagde001)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rohanbagde001)](https://github.com/rohanbagde001)
 
 <!---
 rohanbagde001/rohanbagde001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
