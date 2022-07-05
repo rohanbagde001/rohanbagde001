@@ -2,7 +2,7 @@ Hi there
 
 -I’m Rohan Bagde
 - 👀 I’m interested in learning new technology
-- 🌱 I’m currently learning ML Models,Deployment of application on different cloud platform by using docker
+- 🌱 I’m currently learning ML Models,Deployment of application on different cloud platform by using docker.
 - 💞️ I’m looking to collaborate on open source project
 - 📫 How to reach me:[Linkedin @rohanbagde](https://www.linkedin.com/in/rohan-bagde-6180b489/)
 
